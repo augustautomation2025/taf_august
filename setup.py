@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='taf_august',
-    version='1.0.0',
+    version='2.0.0',
     author='Sreenivasulu Kattubadi',
     description='Test Automation Framework for Data Quality Validation',
     packages=find_packages(where='src'),
