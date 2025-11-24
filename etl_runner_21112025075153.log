@@ -1,0 +1,4 @@
+2025-11-21 07:51:53,225 - ERROR - File not found!
+2025-11-21 07:51:53,225 - CRITICAL - this is critical
+2025-11-21 07:51:53,225 - ERROR - File not found! 2nd
+2025-11-21 07:51:53,225 - CRITICAL - this is critical 2nd

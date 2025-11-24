@@ -1,4 +1,5 @@
-print("this taf")
-print("this is taf line 2")
+import os
 
-print("this is taf line 2")
+
+
+print(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))

@@ -1,0 +1,5 @@
+2025-11-21 07:52:10,145 - WARNING - Low disk space
+2025-11-21 07:52:10,146 - ERROR - File not found!
+2025-11-21 07:52:10,146 - CRITICAL - this is critical
+2025-11-21 07:52:10,146 - ERROR - File not found! 2nd
+2025-11-21 07:52:10,146 - CRITICAL - this is critical 2nd
