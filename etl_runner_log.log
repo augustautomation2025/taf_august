@@ -1,0 +1,15 @@
+2025-11-21 07:47:39,781 - DEBUG - this is debug message
+2025-11-21 07:47:39,782 - INFO - Program started
+2025-11-21 07:47:39,782 - WARNING - Low disk space
+2025-11-21 07:47:39,782 - ERROR - File not found!
+2025-11-21 07:47:39,782 - CRITICAL - this is critical
+2025-11-21 07:47:39,782 - ERROR - File not found! 2nd
+2025-11-21 07:47:39,782 - CRITICAL - this is critical 2nd
+2025-11-21 07:49:32,035 - ERROR - File not found!
+2025-11-21 07:49:32,035 - CRITICAL - this is critical
+2025-11-21 07:49:32,035 - ERROR - File not found! 2nd
+2025-11-21 07:49:32,035 - CRITICAL - this is critical 2nd
+2025-11-21 07:50:21,912 - ERROR - File not found!
+2025-11-21 07:50:21,912 - CRITICAL - this is critical
+2025-11-21 07:50:21,912 - ERROR - File not found! 2nd
+2025-11-21 07:50:21,912 - CRITICAL - this is critical 2nd
