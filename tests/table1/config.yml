@@ -1,5 +1,5 @@
 source:
-  path: "/Users/admin/PycharmProjects/taf_august/input_files/customer_data/customer_data_03.csv"
+  path: "/Users/admin/PycharmProjects/taf_august/input_files/customer_data/"
   type: "csv"
   schema: "Y"
   options:
