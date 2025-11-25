@@ -7,7 +7,6 @@ def read_db(config, spark,dir_path):
     print(cred_file_path)
     with open(cred_file_path, "r") as file:
         creds = yaml.safe_load(file)[config['cred_lookup']]
-
     if config['transformation'][0].lower() == 'y' :
         query = read_sql(dir_path=dir_path)
         df = (spark.read.format("jdbc")
